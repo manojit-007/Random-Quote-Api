@@ -1,0 +1,14 @@
+{
+  "name": "random-quote-by-mono",
+  "version": "1.0.0",
+  "description": "Give random quote",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "manojit-007",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
